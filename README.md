@@ -82,5 +82,5 @@ Enjoy using the MERN Stack Todo List application!
 6. Update a Todo
    ![Screenshot 2023-12-05 093011](https://github.com/bajpaisushil/TodoList-MERN/assets/111970311/abf3269d-24e0-471f-8eb8-e7b0836fcb3c)
 
-7. Delete a Todo
+8. Delete a Todo
    ![Screenshot 2023-12-05 093021](https://github.com/bajpaisushil/TodoList-MERN/assets/111970311/2d60efa6-7e73-47bf-9683-b0b3ed8bf046)
