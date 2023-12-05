@@ -36,7 +36,6 @@ const sendEmailWithNodemailer = (req, res, emailData) => {
     .catch((err) => {
       console.log(`Problem sending email: ${err}`);
     });
-  return info;
 };
 
 export const signup = async (req, res) => {
